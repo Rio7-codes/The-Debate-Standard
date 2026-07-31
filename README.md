@@ -288,7 +288,7 @@ npm run dev
 
 ### Shrutosom Sengupta
 
-**Final Year, School of Law at KIIT University**
+> **Final Year, School of Law at KIIT University**
 
 Responsible for the conceptual foundation and debate expertise behind **The Debate Standard**, including:
 
@@ -302,9 +302,9 @@ Responsible for the conceptual foundation and debate expertise behind **The Deba
 
 ### Souhardya Mridha
 
-**Systems Engineer C1 at Tata Consultancy Services (TCS)**
+> **Systems Engineer C1 at Tata Consultancy Services (TCS)**
 
-**B.Tech Graduate in Computer Science & Engineering**  
+> **B.Tech Graduate in Computer Science & Engineering**  
 
 Responsible for the end-to-end design, architecture, and implementation of **The Debate Standard**, including:
 
