@@ -16,7 +16,7 @@ An AI-powered platform for learning, practicing, and mastering debate through pe
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Status-🚧_Active_Development-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-_Active_Development-orange?style=flat-square" />
 &nbsp;
 <img src="https://img.shields.io/badge/Python-3.13.5-3776AB?style=flat-square&logo=python&logoColor=white" />
 &nbsp;
@@ -26,9 +26,9 @@ An AI-powered platform for learning, practicing, and mastering debate through pe
 &nbsp;
 <img src="https://img.shields.io/badge/React-19.2.4-61DAFB?style=flat-square&logo=react&logoColor=black" />
 &nbsp;
-<img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-5.9.3-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/AI-Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM-Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
 
 </p>
 
