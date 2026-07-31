@@ -1,6 +1,14 @@
 # The Debate Standard
 
-> An AI-powered platform for learning, practicing, and mastering debate through educational resources, personalized coaching, speech analysis, video analysis, and community engagement.
+> **Status:** 🚧 Active Development  
+> **Type:** Full-Stack AI Web Application  
+> **Purpose:** AI-powered personalized debate coaching and learning platform.
+
+<p align="center">
+  <strong>An AI-powered platform for learning, practicing, and mastering debate through personalized coaching, educational resources, speech analysis, video analysis, and community engagement.</strong>
+</p>
+
+<p align="center">
 
 ![Status](https://img.shields.io/badge/Status-Under%20Active%20Development-orange)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -9,57 +17,84 @@
 ![React](https://img.shields.io/badge/React-19-61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6)
 
+</p>
+
 ---
 
 # Overview
 
-**The Debate Standard** is an AI-powered debating platform built to help students and aspiring debaters learn, practice, and master debate through intelligent coaching, structured educational content, personalized learning, speech analysis, and community interaction.
+**The Debate Standard** is an AI-powered debating platform designed to help students, aspiring debaters, and competitive speakers learn, practice, and master the art of debating.
 
-The platform combines modern AI with debate-specific expertise to create a personalized learning experience that adapts to every user's debating style, strengths, weaknesses, and long-term progress.
+The platform combines cutting-edge Artificial Intelligence with structured debate education to deliver personalized coaching, long-term learning, educational resources, speech analysis, video analysis, tournament preparation, and community engagement.
 
-The long-term vision is to create a complete ecosystem for competitive debating that includes AI coaching, educational resources, blogs, community engagement, tournament preparation, speech evaluation, and video analysis.
+Unlike traditional AI chatbots, **The Debate Standard** is designed to remember every user's debating journey through a personalized long-term memory system, enabling increasingly intelligent and tailored coaching over time.
+
+The long-term vision is to create a complete ecosystem for debate education where students can prepare for tournaments, receive AI feedback, improve speaking skills, engage with a debating community, and continuously track their growth.
 
 ---
 
-# Current Features
+# Key Features
 
-## AI Debate Coach
+## 🤖 AI Debate Coach
 
-- Personalized AI coach
+- Personalized AI coaching
 - Context-aware conversations
-- Long-term memory
-- Personalized coaching sessions
+- Long-term personalized memory
 - Debate strategy guidance
-- Feedback generation
+- Argument refinement
+- Personalized feedback
+- Intelligent coaching sessions
 
-## Personalized Memory
+---
 
-- User profile memory
-- Debate experience tracking
-- Speaking style memory
-- Strengths & weaknesses
+## 🧠 Personalized Memory System
+
+The AI remembers information including:
+
+- Debate experience
+- Preferred debate formats
+- Target tournaments
+- Speaking style
+- Strengths
+- Weaknesses
 - Learning goals
 - Recurring mistakes
-- Tournament preferences
+- Personalized coaching preferences
 
-## Learning Platform
+This allows coaching sessions to become increasingly personalized over time.
 
-- Debate resources
-- Educational content
-- Blogs
+---
+
+## 🎓 Debate Learning Platform
+
 - Debate formats
+- Educational resources
+- Learning modules
+- Blogs & Articles
 - Tournament preparation
+- Public speaking guidance
+- Argument construction techniques
 
-## Planned Features
+---
+
+## 🎥 AI Analysis *(In Development)*
 
 - Speech Analysis
 - Video Analysis
-- User Accounts
-- Community Platform
-- Discussion Forums
-- Analytics Dashboard
-- Practice Debates
-- Mobile Support
+- Speaking style evaluation
+- Confidence analysis
+- Delivery feedback
+- Improvement suggestions
+
+---
+
+## 👥 Community *(Planned)*
+
+- User profiles
+- Discussion forums
+- Debate practice rooms
+- Peer learning
+- Community resources
 
 ---
 
@@ -73,29 +108,38 @@ The long-term vision is to create a complete ecosystem for competitive debating 
 - HTML5
 - CSS3
 
+---
+
 ## Backend
 
 - Python
 - FastAPI
 - REST APIs
 
+---
+
 ## Artificial Intelligence
 
 - Google Gemini API
 - Prompt Engineering
-- Streaming AI Responses
-- Long-Term Memory Architecture
 - Personalized AI Coaching
+- Long-Term Memory Architecture
+- Context-Aware Prompt Building
+- Streaming AI Responses
 
-## Current Architecture
+---
 
-- Modular FastAPI Backend
+## Current Backend Architecture
+
 - Memory Extraction Pipeline
 - Memory Manager
 - Prompt Builder
 - Session Manager
-- Streaming Responses
-- RESTful APIs
+- Modular FastAPI Architecture
+- RESTful API Design
+- Streaming Response System
+
+---
 
 ## Planned Infrastructure
 
@@ -103,8 +147,8 @@ The long-term vision is to create a complete ecosystem for competitive debating 
 - Redis
 - Docker
 - JWT Authentication
-- Vercel
-- Railway / Render
+- Vercel Deployment
+- Railway / Render Deployment
 
 ---
 
@@ -124,40 +168,47 @@ The-Debate-Standard
 ├── frontend/
 │   ├── public/
 │   ├── src/
+│   │   ├── app/
+│   │   └── components/
 │   ├── package.json
 │   └── next.config.ts
 │
-├── .gitignore
-└── README.md
+├── LICENSE
+├── README.md
+└── .gitignore
 ```
 
 ---
 
 # Development Progress
 
-## Completed
+## ✅ Completed
 
 - AI Debate Coach
-- Long-Term Memory System
-- Memory Extraction
-- Prompt Builder
 - Streaming AI Responses
+- Personalized Long-Term Memory
+- Memory Extraction Pipeline
+- Memory Management System
+- Prompt Builder
 - Session Architecture
 - Interactive Coach Widget
-- Modular Backend
 - Next.js Frontend Foundation
+- Modular Backend Architecture
+- REST API Development
 
-## Under Development
+---
 
-- PostgreSQL Database
+## 🚧 Currently Under Development
+
+- PostgreSQL Integration
+- Persistent User Sessions
 - User Authentication
-- Persistent Sessions
 - Debate Learning Portal
 - Blog Platform
 - Community Features
 - AI Speech Analysis
 - AI Video Analysis
-- User Dashboard
+- Performance Dashboard
 
 ---
 
@@ -197,71 +248,115 @@ npm run dev
 - AI Speech Analysis
 - AI Video Analysis
 - Performance Dashboard
-- Mobile Application
 - Cloud Deployment
+- Mobile Application
 
 ---
 
 # Contributors
 
-## Product Concept & Vision
+## Product Concept & Domain Expertise
 
 ### Shrutosom Sengupta
-**5th Year, School of Law**
+
+**5th Year, School of Law**  
 **KIIT University**
 
-Responsibilities:
+### Responsibilities
 
-- Conceived the original idea for The Debate Standard
-- Defined the vision and long-term objectives
+- Conceived the original idea for **The Debate Standard**
+- Defined the long-term product vision and objectives
 - Provided debating domain expertise
-- Product planning and feature direction
+- Guided feature planning and product direction
 
 ---
 
-## Software Engineering & AI Development
+## Software Architecture & Engineering
 
 ### Souhardya Mridha
-**B.Tech, Computer Science & Engineering**
+
+**B.Tech Graduate in Computer Science & Engineering**  
+**Systems Engineer C1 at Tata Consultancy Services (TCS)**
 
 Responsible for the complete software implementation, including:
 
-- Full Stack Development
-- Software Architecture
-- Backend Development
-- Frontend Development
-- AI System Design
+- End-to-End Software Architecture
+- Full-Stack Application Development
+- Frontend Development (Next.js, React & TypeScript)
+- Backend Development (FastAPI & Python)
 - Google Gemini Integration
+- AI System Design
 - Long-Term Memory Architecture
+- Memory Extraction Pipeline
 - Prompt Engineering
 - Session Management
 - REST API Development
-- Version Control
-- Deployment Pipeline
+- Git Version Control
+- Project Infrastructure
+- Deployment Planning
 
 ---
 
-# Project Status
+# Technologies Used
 
-🚧 **This project is under active development.**
+| Category | Technologies |
+|----------|--------------|
+| Frontend | Next.js, React, TypeScript, HTML5, CSS3 |
+| Backend | Python, FastAPI |
+| Artificial Intelligence | Google Gemini API, Prompt Engineering, Streaming AI Responses |
+| Memory System | Personalized Long-Term Memory Architecture |
+| API | RESTful APIs |
+| Version Control | Git, GitHub |
+| Development Tools | Visual Studio Code, npm, uvicorn |
+| Planned Infrastructure | PostgreSQL, Redis, Docker, JWT Authentication, Vercel, Railway / Render |
 
-New features and improvements are continuously being added.
+---
+
+# Design Philosophy
+
+The Debate Standard is being developed with a strong emphasis on:
+
+- Personalized AI-assisted learning
+- Scalable software architecture
+- Maintainable and modular code
+- Real-world debating assistance
+- Continuous improvement
+- User-centric experience
+- High-quality software engineering practices
+
+---
+
+# Current Project Status
+
+🚧 **Under Active Development**
+
+The Debate Standard is currently under active development, with new features and architectural improvements being added continuously.
+
+The current focus is on building a robust AI-powered coaching platform before expanding into a complete debating ecosystem featuring speech analysis, video analysis, educational resources, blogs, and community engagement.
+
+---
+
+# Contributing
+
+Suggestions, ideas, feature requests, bug reports, and constructive feedback are always welcome.
+
+If you'd like to contribute or have recommendations for improving the platform, feel free to open an Issue or start a discussion.
 
 ---
 
 # Copyright & License
 
-© 2026 Souhardya Mridha.
+Copyright © 2026 Souhardya Mridha.
 
-The software implementation, source code, software architecture, AI systems, and technical development of this project were developed by **Souhardya Mridha**.
+The software implementation, source code, software architecture, artificial intelligence systems, and all technical development contained within this repository were designed and developed by **Souhardya Mridha**.
 
 The original product concept and vision for **The Debate Standard** were conceived by **Shrutosom Sengupta**.
 
-This repository is made publicly available for portfolio and demonstration purposes only.
+This repository is publicly accessible for portfolio, educational, and demonstration purposes only.
 
 **All Rights Reserved.**
 
-No part of this software may be copied, modified, redistributed, reverse engineered, or used in any commercial or non-commercial project without prior written permission from the copyright holder.
+No permission is granted to copy, modify, distribute, sublicense, publish, sell, reverse engineer, or create derivative works from any portion of this software without prior written permission from the copyright holder.
 
 ---
 
@@ -269,9 +364,28 @@ No part of this software may be copied, modified, redistributed, reverse enginee
 
 ### Souhardya Mridha
 
-GitHub:
-https://github.com/Rio7-codes
+**Systems Engineer C1 at Tata Consultancy Services (TCS)**
+
+**B.Tech Graduate in Computer Science & Engineering**
+
+GitHub: https://github.com/Rio7-codes
+
+For technical discussions, collaboration opportunities, or licensing inquiries, please open an Issue on GitHub or reach out through my GitHub profile.
 
 ---
 
-⭐ If you find this project interesting, consider starring the repository.
+# Acknowledgements
+
+Special thanks to **Shrutosom Sengupta** for conceiving the original idea and vision behind **The Debate Standard**, and to everyone providing valuable feedback throughout its development.
+
+---
+
+<p align="center">
+
+⭐ **If you found this project interesting, consider giving it a star!**
+
+**The Debate Standard**
+
+*Empowering the next generation of debaters through Artificial Intelligence.*
+
+</p>
