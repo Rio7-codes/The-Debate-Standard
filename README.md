@@ -302,8 +302,8 @@ Responsible for the conceptual foundation and debate expertise behind **The Deba
 
 ### Souhardya Mridha
 
-**B.Tech Graduate in Computer Science & Engineering**  
 **Systems Engineer C1 at Tata Consultancy Services (TCS)**
+**B.Tech Graduate in Computer Science & Engineering**  
 
 Responsible for the end-to-end design, architecture, and implementation of **The Debate Standard**, including:
 
