@@ -88,6 +88,7 @@ The AI remembers information including:
 - Learning goals
 - Recurring mistakes
 - Personalized coaching preferences
+- Multi-Model AI Architecture
 
 This allows coaching sessions to become increasingly personalized over time.
 
@@ -155,6 +156,7 @@ This allows coaching sessions to become increasingly personalized over time.
 - Long-Term Memory Architecture
 - Context-Aware Prompt Building
 - Streaming AI Responses
+- Future Multi-Model AI Support
 
 ---
 
@@ -281,6 +283,7 @@ npm run dev
 - Performance Dashboard
 - Cloud Deployment
 - Mobile Application
+- Multi-Model AI Orchestration
 
 ---
 
