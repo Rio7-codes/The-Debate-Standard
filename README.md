@@ -1,6 +1,6 @@
 # The Debate Standard
 
-> **Status:** 🚧 Active Development  
+> **Status:** Active Development  
 > **Type:** Full-Stack AI Web Application  
 > **Purpose:** AI-powered personalized debate coaching and learning platform.
 
@@ -10,12 +10,17 @@
 
 <p align="center">
 
-![Status](https://img.shields.io/badge/Status-Under%20Active%20Development-orange)
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688)
-![Next.js](https://img.shields.io/badge/Next.js-Frontend-black)
-![React](https://img.shields.io/badge/React-19-61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6)
+<img src="https://img.shields.io/badge/Status-Under%20Active%20Development-orange" />
+&nbsp;
+<img src="https://img.shields.io/badge/Python-3.x-blue" />
+&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688" />
+&nbsp;
+<img src="https://img.shields.io/badge/Next.js-Frontend-black" />
+&nbsp;
+<img src="https://img.shields.io/badge/React-19-61DAFB" />
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-5-3178C6" />
 
 </p>
 
