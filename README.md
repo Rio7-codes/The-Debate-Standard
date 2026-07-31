@@ -393,15 +393,27 @@ No permission is granted to copy, modify, distribute, sublicense, publish, sell,
 
 # Contact
 
+# Contact
+
+### Shrutosom Sengupta
+
+> **Final Year, School of Law at KIIT University**
+
+Email:
+
+For debating queries, public speaking advice, tournament guidance, or discussions related to debate education, feel free to reach out via email.
+
+---
+
 ### Souhardya Mridha
 
-**Systems Engineer C1 at Tata Consultancy Services (TCS)**
+> **Systems Engineer C1 at Tata Consultancy Services (TCS)**
 
-**B.Tech Graduate in Computer Science & Engineering**
+> **B.Tech Graduate in Computer Science & Engineering**
 
 GitHub: https://github.com/Rio7-codes
 
-For technical discussions, collaboration opportunities, or licensing inquiries, please open an Issue on GitHub or reach out through my GitHub profile.
+For technical discussions, collaboration opportunities, software development, AI-related inquiries, or licensing questions, please open an Issue on GitHub or reach out through my GitHub profile.
 
 ---
 
