@@ -26,7 +26,7 @@ An AI-powered platform for learning, practicing, and mastering debate through pe
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-5.9.3-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/LLM-Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white" />
 
 </p>
 
