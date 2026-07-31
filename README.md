@@ -303,7 +303,6 @@ Responsible for the conceptual foundation and debate expertise behind **The Deba
 ### Souhardya Mridha
 
 > **Systems Engineer C1 at Tata Consultancy Services (TCS)**
-
 > **B.Tech Graduate in Computer Science & Engineering**  
 
 Responsible for the end-to-end design, architecture, and implementation of **The Debate Standard**, including:
@@ -406,7 +405,6 @@ For debating queries, public speaking advice, tournament guidance, or discussion
 ### Souhardya Mridha
 
 > **Systems Engineer C1 at Tata Consultancy Services (TCS)**
-
 > **B.Tech Graduate in Computer Science & Engineering**
 
 GitHub: https://github.com/Rio7-codes
