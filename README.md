@@ -1,60 +1,65 @@
 # The Debate Standard
 
-> An AI-powered platform for learning, practicing, and mastering debate through personalized coaching, educational resources, and community engagement.
+> An AI-powered platform for learning, practicing, and mastering debate through educational resources, personalized coaching, speech analysis, video analysis, and community engagement.
 
-![Project Status](https://img.shields.io/badge/status-Under%20Active%20Development-orange)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Status](https://img.shields.io/badge/Status-Under%20Active%20Development-orange)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688)
 ![Next.js](https://img.shields.io/badge/Next.js-Frontend-black)
-![Gemini](https://img.shields.io/badge/Google-Gemini-blue)
+![React](https://img.shields.io/badge/React-19-61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6)
 
 ---
 
-## Overview
+# Overview
 
-**The Debate Standard** is a modern platform built to help **students, aspiring debaters, and competitive speakers** improve every aspect of debating.
+**The Debate Standard** is an AI-powered debating platform built to help students and aspiring debaters learn, practice, and master debate through intelligent coaching, structured educational content, personalized learning, speech analysis, and community interaction.
 
-The platform combines structured learning resources with AI-powered coaching, allowing users to receive personalized guidance, analyze speeches, improve argumentation, and prepare for competitive debating tournaments.
+The platform combines modern AI with debate-specific expertise to create a personalized learning experience that adapts to every user's debating style, strengths, weaknesses, and long-term progress.
 
-Beyond AI coaching, the platform aims to become a complete debating ecosystem featuring educational content, blogs, community interaction, tournament preparation, and practice tools.
+The long-term vision is to create a complete ecosystem for competitive debating that includes AI coaching, educational resources, blogs, community engagement, tournament preparation, speech evaluation, and video analysis.
 
 ---
 
-## Features
+# Current Features
 
-### AI Debate Coach
+## AI Debate Coach
 
-- Personalized AI debate mentor
-- Long-term user memory
-- Personalized coaching sessions
+- Personalized AI coach
 - Context-aware conversations
+- Long-term memory
+- Personalized coaching sessions
 - Debate strategy guidance
-- Constructive feedback
+- Feedback generation
 
-### Speech & Video Analysis
+## Personalized Memory
 
-- Speech evaluation
-- Video-based performance analysis
-- Delivery feedback
-- Speaking style analysis
-- Improvement recommendations
+- User profile memory
+- Debate experience tracking
+- Speaking style memory
+- Strengths & weaknesses
+- Learning goals
+- Recurring mistakes
+- Tournament preferences
 
-### Learning Platform
+## Learning Platform
 
+- Debate resources
+- Educational content
+- Blogs
 - Debate formats
-- Educational resources
-- Debate tutorials
-- Blogs & articles
 - Tournament preparation
 
-### Community (Planned)
+## Planned Features
 
-- User profiles
-- Community discussions
-- Peer interaction
-- Debate challenges
-- Shared resources
+- Speech Analysis
+- Video Analysis
+- User Accounts
+- Community Platform
+- Discussion Forums
+- Analytics Dashboard
+- Practice Debates
+- Mobile Support
 
 ---
 
@@ -65,39 +70,41 @@ Beyond AI coaching, the platform aims to become a complete debating ecosystem fe
 - Next.js
 - React
 - TypeScript
-- CSS
 - HTML5
+- CSS3
 
 ## Backend
 
-- FastAPI
 - Python
+- FastAPI
+- REST APIs
 
-## AI
+## Artificial Intelligence
 
 - Google Gemini API
 - Prompt Engineering
-- Personalized AI Memory System
+- Streaming AI Responses
+- Long-Term Memory Architecture
+- Personalized AI Coaching
 
 ## Current Architecture
 
-- Modular FastAPI backend
+- Modular FastAPI Backend
+- Memory Extraction Pipeline
 - Memory Manager
-- Memory Extractor
 - Prompt Builder
-- Streaming AI Responses
-- Session Management
-- REST API Architecture
+- Session Manager
+- Streaming Responses
+- RESTful APIs
 
-## Future Technologies
+## Planned Infrastructure
 
 - PostgreSQL
 - Redis
 - Docker
-- Vercel Deployment
+- JWT Authentication
+- Vercel
 - Railway / Render
-- Authentication
-- Cloud Storage
 
 ---
 
@@ -111,41 +118,46 @@ The-Debate-Standard
 │   ├── routes/
 │   ├── services/
 │   ├── session/
-│   └── app.py
+│   ├── app.py
+│   └── requirements.txt
 │
 ├── frontend/
-│   ├── src/
 │   ├── public/
-│   └── package.json
+│   ├── src/
+│   ├── package.json
+│   └── next.config.ts
 │
+├── .gitignore
 └── README.md
 ```
 
 ---
 
-# Current Development Status
+# Development Progress
 
 ## Completed
 
 - AI Debate Coach
-- Personalized Memory System
-- Memory Extraction Pipeline
+- Long-Term Memory System
+- Memory Extraction
 - Prompt Builder
 - Streaming AI Responses
-- Modular Backend Architecture
-- Next.js Frontend Foundation
+- Session Architecture
 - Interactive Coach Widget
+- Modular Backend
+- Next.js Frontend Foundation
 
-## Currently Working On
+## Under Development
 
-- PostgreSQL Integration
-- Persistent User Sessions
+- PostgreSQL Database
 - User Authentication
-- Blog System
-- Community Features
+- Persistent Sessions
 - Debate Learning Portal
-- Speech Analysis Improvements
-- Video Analysis Pipeline
+- Blog Platform
+- Community Features
+- AI Speech Analysis
+- AI Video Analysis
+- User Dashboard
 
 ---
 
@@ -175,48 +187,91 @@ npm run dev
 
 ---
 
-# Roadmap
+# Future Roadmap
 
-- AI Debate Coach
-- User Accounts
+- Personalized AI Debate Coach
 - Community Platform
-- Blogs & Articles
-- Debate Courses
-- Video Upload
+- Debate Blogs
+- Educational Courses
+- Tournament Preparation
 - AI Speech Analysis
 - AI Video Analysis
-- Tournament Preparation
 - Performance Dashboard
-- Mobile Support
+- Mobile Application
+- Cloud Deployment
 
 ---
 
-# Contributing
+# Contributors
 
-Contributions, ideas, feature requests, and discussions are welcome.
+## Product Concept & Vision
 
-Please open an issue before submitting large feature requests or pull requests.
+### Shrutosom Sengupta
+**5th Year, School of Law**
+**KIIT University**
 
----
+Responsibilities:
 
-# License
-
-This project is licensed under the **MIT License**.
-
-See the `LICENSE` file for details.
-
----
-
-# Copyright
-
-Copyright © 2026 Souhardya Mridha
-
-All Rights Reserved.
+- Conceived the original idea for The Debate Standard
+- Defined the vision and long-term objectives
+- Provided debating domain expertise
+- Product planning and feature direction
 
 ---
 
-## Author
+## Software Engineering & AI Development
 
-**Souhardya Mridha**
+### Souhardya Mridha
+**B.Tech, Computer Science & Engineering**
 
-GitHub: https://github.com/Rio7-codes
+Responsible for the complete software implementation, including:
+
+- Full Stack Development
+- Software Architecture
+- Backend Development
+- Frontend Development
+- AI System Design
+- Google Gemini Integration
+- Long-Term Memory Architecture
+- Prompt Engineering
+- Session Management
+- REST API Development
+- Version Control
+- Deployment Pipeline
+
+---
+
+# Project Status
+
+🚧 **This project is under active development.**
+
+New features and improvements are continuously being added.
+
+---
+
+# Copyright & License
+
+© 2026 Souhardya Mridha.
+
+The software implementation, source code, software architecture, AI systems, and technical development of this project were developed by **Souhardya Mridha**.
+
+The original product concept and vision for **The Debate Standard** were conceived by **Shrutosom Sengupta**.
+
+This repository is made publicly available for portfolio and demonstration purposes only.
+
+**All Rights Reserved.**
+
+No part of this software may be copied, modified, redistributed, reverse engineered, or used in any commercial or non-commercial project without prior written permission from the copyright holder.
+
+---
+
+# Contact
+
+### Souhardya Mridha
+
+GitHub:
+https://github.com/Rio7-codes
+
+---
+
+⭐ If you find this project interesting, consider starring the repository.
