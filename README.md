@@ -10,7 +10,7 @@
 
 <p align="center">
 <strong>
-An AI-powered platform for learning, practicing, and mastering debate through personalized coaching, educational resources, speech analysis, video analysis, and community engagement.
+An AI-powered debate platform for learning, practicing, and mastering debate through personalized coaching, expert-written educational resources, speech analysis, video analysis, tournament preparation, and community engagement.
 </strong>
 </p>
 
@@ -34,9 +34,9 @@ An AI-powered platform for learning, practicing, and mastering debate through pe
 
 # Overview
 
-**The Debate Standard** is an AI-powered debating platform designed to help students, aspiring debaters, and competitive speakers learn, practice, and master the art of debating.
+**The Debate Standard** is an AI-powered debate platform designed to help students, aspiring debaters, and competitive speakers learn, practice, and master the art of debating through personalized AI coaching and expert-written educational content.
 
-The platform combines cutting-edge Artificial Intelligence with structured debate education to deliver personalized coaching, long-term learning, educational resources, speech analysis, video analysis, tournament preparation, and community engagement.
+The platform combines cutting-edge Artificial Intelligence with expert-written debate education to deliver personalized coaching, long-term learning, educational resources, blogs, speech analysis, video analysis, tournament preparation, and community engagement.
 
 Unlike traditional AI chatbots, **The Debate Standard** is designed to remember every user's debating journey through a personalized long-term memory system, enabling increasingly intelligent and tailored coaching over time.
 
@@ -78,10 +78,10 @@ This allows coaching sessions to become increasingly personalized over time.
 
 ## 🎓 Debate Learning Platform
 
-- Debate formats
+- Debate formats and rulebooks
 - Educational resources
-- Learning modules
-- Blogs & Articles
+- Expert-written blogs & articles
+- Debate theory and strategy guides
 - Tournament preparation
 - Public speaking guidance
 - Argument construction techniques
@@ -105,6 +105,7 @@ This allows coaching sessions to become increasingly personalized over time.
 - Discussion forums
 - Debate practice rooms
 - Peer learning
+- Knowledge sharing
 - Community resources
 
 ---
@@ -276,9 +277,8 @@ npm run dev
 ### Responsibilities
 
 - Conceived the original idea for **The Debate Standard**
-- Defined the long-term product vision and objectives
-- Provided debating domain expertise
-- Guided feature planning and product direction
+- Provided debating domain expertise and feedback
+- Authors expert-written debate blogs, articles, and educational resources
 
 ---
 
@@ -289,8 +289,9 @@ npm run dev
 **B.Tech Graduate in Computer Science & Engineering**  
 **Systems Engineer C1 at Tata Consultancy Services (TCS)**
 
-Responsible for the complete software implementation, including:
+Responsible for the end-to-end design, architecture, and implementation of **The Debate Standard**, including:
 
+- Product Architecture & Technical Vision
 - End-to-End Software Architecture
 - Full-Stack Application Development
 - Frontend Development (Next.js, React & TypeScript)
@@ -315,6 +316,7 @@ Responsible for the complete software implementation, including:
 | Frontend | Next.js, React, TypeScript, HTML5, CSS3 |
 | Backend | Python, FastAPI |
 | Artificial Intelligence | Google Gemini API, Prompt Engineering, Streaming AI Responses |
+| Educational Content | Expert-written blogs, debate resources, learning modules, tournament guides |
 | Memory System | Personalized Long-Term Memory Architecture |
 | API | RESTful APIs |
 | Version Control | Git, GitHub |
@@ -328,6 +330,7 @@ Responsible for the complete software implementation, including:
 The Debate Standard is being developed with a strong emphasis on:
 
 - Personalized AI-assisted learning
+- High-quality educational content by experienced debaters
 - Scalable software architecture
 - Maintainable and modular code
 - Real-world debating assistance
@@ -343,7 +346,7 @@ The Debate Standard is being developed with a strong emphasis on:
 
 The Debate Standard is currently under active development, with new features and architectural improvements being added continuously.
 
-The current focus is on building a robust AI-powered coaching platform before expanding into a complete debating ecosystem featuring speech analysis, video analysis, educational resources, blogs, and community engagement.
+The current focus is on building a robust AI-powered coaching platform alongside a comprehensive debate education platform featuring expert-written resources, blogs, speech analysis, video analysis, tournament preparation, and community engagement.
 
 ---
 
@@ -387,7 +390,7 @@ For technical discussions, collaboration opportunities, or licensing inquiries, 
 
 # Acknowledgements
 
-Special thanks to **Shrutosom Sengupta** for conceiving the original idea and vision behind **The Debate Standard**, and to everyone providing valuable feedback throughout its development.
+Special thanks to **Shrutosom Sengupta** for conceiving the original idea behind **The Debate Standard** and contributing debate-domain expertise and educational content throughout its development.
 
 ---
 
