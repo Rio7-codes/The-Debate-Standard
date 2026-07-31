@@ -1,11 +1,17 @@
-# The Debate Standard
+<h1 align="center">The Debate Standard</h1>
 
-> **Status:** Active Development  
+<p align="center">
+
+> **Status:** 🚧 Active Development  
 > **Type:** Full-Stack AI Web Application  
 > **Purpose:** AI-powered personalized debate coaching and learning platform.
 
+</p>
+
 <p align="center">
-  <strong>An AI-powered platform for learning, practicing, and mastering debate through personalized coaching, educational resources, speech analysis, video analysis, and community engagement.</strong>
+<strong>
+An AI-powered platform for learning, practicing, and mastering debate through personalized coaching, educational resources, speech analysis, video analysis, and community engagement.
+</strong>
 </p>
 
 <p align="center">
@@ -82,7 +88,7 @@ This allows coaching sessions to become increasingly personalized over time.
 
 ---
 
-## 🎥 AI Analysis *(In Development)*
+## 🎥 AI Analysis *(Under Development)*
 
 - Speech Analysis
 - Video Analysis
