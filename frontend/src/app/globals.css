@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+body{
+    margin:0;
+    padding:0;
+    font-family:var(--font-body);
+    background:white;
+}
+
+.heading-font{
+    font-family:var(--font-heading);
+}
