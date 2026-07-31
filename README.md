@@ -14,42 +14,21 @@ An AI-powered platform for learning, practicing, and mastering debate through pe
 </strong>
 </p>
 
-<table align="center">
-<tr>
-<td>
-
-<img src="https://img.shields.io/badge/Status-🚧_Active_Development-orange?style=flat-square" />
-
-</td>
-<td>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Python-3.13.5-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-</td>
-<td>
-
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/FastAPI-0.115.0-009688?style=flat-square&logo=fastapi&logoColor=white" />
-
-</td>
-<td>
-
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Next.js-16.2.11-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-
-</td>
-</tr>
-
-<tr>
-<td colspan="4" align="center">
-
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React-19.2.4-61DAFB?style=flat-square&logo=react&logoColor=black" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-5.9.3-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/LLM-Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
 
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
