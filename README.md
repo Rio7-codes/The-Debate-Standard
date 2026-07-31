@@ -393,8 +393,6 @@ No permission is granted to copy, modify, distribute, sublicense, publish, sell,
 
 # Contact
 
-# Contact
-
 ### Shrutosom Sengupta
 
 > **Final Year, School of Law at KIIT University**
