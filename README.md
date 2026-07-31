@@ -16,17 +16,34 @@ An AI-powered debate platform for learning, practicing, and mastering debate thr
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3.13.5-3776AB?style=flat-square&logo=python&logoColor=white" />
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3.13.5-3776AB?style=flat-square&logo=python&logoColor=white" />
+</a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/FastAPI-0.115.0-009688?style=flat-square&logo=fastapi&logoColor=white" />
+
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://img.shields.io/badge/FastAPI-0.115.0-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Next.js-16.2.11-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Next.js-16.2.11-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+</a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/React-19.2.4-61DAFB?style=flat-square&logo=react&logoColor=black" />
+
+<a href="https://react.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/React-19.2.4-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-5.9.3-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/TypeScript-5.9.3-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+</a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Gemini-2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white" />
+
+<a href="https://ai.google.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Gemini-2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white" />
+</a>
 
 </p>
 
