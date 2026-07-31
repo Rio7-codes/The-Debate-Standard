@@ -288,8 +288,7 @@ npm run dev
 
 ### Shrutosom Sengupta
 
-**5th Year, School of Law**  
-**KIIT University**
+**Final Year, School of Law at KIIT University**
 
 ### Responsibilities
 
