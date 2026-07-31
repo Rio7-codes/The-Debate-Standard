@@ -290,11 +290,11 @@ npm run dev
 
 **Final Year, School of Law at KIIT University**
 
-### Responsibilities
+Responsible for the conceptual foundation and debate expertise behind **The Debate Standard**, including:
 
 - Conceived the original idea for **The Debate Standard**
-- Provided debating domain expertise and feedback
 - Authors expert-written debate blogs, articles, and educational resources
+- Provided debating domain expertise and feedback
 
 ---
 
