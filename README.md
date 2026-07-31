@@ -2,7 +2,7 @@
 
 <p align="center">
 
-> **Status:** 🚧 Active Development  
+> **Status:** Active Development  
 > **Type:** Full-Stack AI Web Application  
 > **Purpose:** AI-powered personalized debate coaching and learning platform.
 
