@@ -291,7 +291,7 @@ npm run dev
 
 ## Product Concept & Domain Expertise
 
-### Shrutosom Sengupta
+### Shrutasom Sengupta
 
 > **Final Year, School of Law at KIIT University**
 
@@ -397,7 +397,7 @@ No permission is granted to copy, modify, distribute, sublicense, publish, sell,
 
 # Contact
 
-### Shrutosom Sengupta
+### Shrutasom Sengupta
 
 > **Final Year, School of Law at KIIT University**
 
@@ -420,7 +420,7 @@ For technical discussions, collaboration opportunities, software development, AI
 
 # Acknowledgements
 
-Special thanks to **Shrutosom Sengupta** for conceiving the original idea behind **The Debate Standard** and contributing debate-domain expertise and educational content throughout its development.
+Special thanks to **Shrutasom Sengupta** for conceiving the original idea behind **The Debate Standard** and contributing debate-domain expertise and educational content throughout its development.
 
 ---
 
