@@ -55,12 +55,12 @@ export default function Navbar() {
         <div className="flex shrink-0 items-center">
           <Link href="/" className="cursor-pointer">
             <Image
-              src="/logo.jpg"
+              src="/logo1.png"
               alt="The Debate Standard"
               width={320}
               height={80}
               priority
-              className="h-[52px] w-auto object-contain transition-transform duration-300 ease-out hover:scale-[1.03] active:scale-[0.99]"
+              className="h-[60px] w-auto object-contain transition-transform duration-300 ease-out hover:scale-[1.03] active:scale-[0.99]"
             />
           </Link>
         </div>

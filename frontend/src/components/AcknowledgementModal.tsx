@@ -6,7 +6,6 @@ import { useEffect, useState } from "react";
 const STORAGE_KEY = "tds-acknowledgement-seen";
 
 export default function AcknowledgementModal() {
-  // null = "haven't checked sessionStorage yet" (avoids a flash on repeat visits)
   const [show, setShow] = useState<boolean | null>(null);
   const [animate, setAnimate] = useState(false);
   const [locked, setLocked] = useState(false);
@@ -16,7 +15,6 @@ export default function AcknowledgementModal() {
     try {
       alreadySeen = sessionStorage.getItem(STORAGE_KEY) === "1";
     } catch {
-      // sessionStorage unavailable (e.g. privacy mode) — fail open and show it
     }
 
     if (alreadySeen) {
@@ -35,7 +33,6 @@ export default function AcknowledgementModal() {
     try {
       sessionStorage.setItem(STORAGE_KEY, "1");
     } catch {
-      // ignore — worst case the modal reappears on the next page
     }
 
     setAnimate(false);
@@ -50,7 +47,6 @@ export default function AcknowledgementModal() {
     setTimeout(() => setLocked(true), 280);
   }
 
-  // Full-site lockout — rendered instead of the app once the user exits.
   if (locked) {
     return (
       <div
@@ -114,7 +110,7 @@ export default function AcknowledgementModal() {
             }`}
           >
             <Image
-              src="/logo.jpg"
+              src="/logo1.png"
               alt="The Debate Standard"
               width={190}
               height={55}
